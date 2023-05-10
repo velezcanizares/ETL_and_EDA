@@ -13,7 +13,7 @@ En la limpieza se encuentran estos problemas, los cuales se resuelven:
 - Outliers en variables numéricas
 - Errores tipográficos en varibles categóricas
 
-##EDA
+## EDA
 En esta sección se realiza:
 - Análisis de cada variable de manera particular
 - Análisis univariado
